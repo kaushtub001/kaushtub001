@@ -10,22 +10,22 @@
 ---
 
 ```console
-mannu@archbtw:~$ gitfetch
+kaush@macbook:~$ gitfetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 mannu@archbtw
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 kaush@macbook
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 18 years
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: macOS (Darwin)
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 21 years
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: HomeBrew
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:MannuVilasara
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:kaushtub001
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:mannu.live
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: MannuVilasara
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:kaushtub.dev
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: kaushtub001
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------
